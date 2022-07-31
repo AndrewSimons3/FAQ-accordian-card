@@ -59,7 +59,23 @@ body {
   width: 50%;
 }
 
+.question-container {
+  display: flex;
+  margin: 2rem 0;
+  border-bottom: 1px solid rgb(203, 185, 185);
+}
 
+
+
+.arrow {
+  border: none;
+  background: #fff;
+  margin-left: auto;
+}
+
+.answer {
+  display: none;
+}
 
 .attribution {
 	font-size: 11px;
