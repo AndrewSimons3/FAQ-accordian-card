@@ -100,6 +100,10 @@ body {
   transition: 0.3s
 }
 
+.question:hover {
+  color: var(--soft-red);
+}
+
 .question img {
   align-self: center;
 }
