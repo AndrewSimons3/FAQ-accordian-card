@@ -39,7 +39,7 @@ body {
 }
 
 .image-container {
-  width: 50%;
+	width: 50%;
 }
 
 .woman {
@@ -56,25 +56,24 @@ body {
 }
 
 .content {
-  width: 50%;
+	width: 50%;
 }
 
 .question-container {
-  display: flex;
-  margin: 2rem 0;
-  border-bottom: 1px solid rgb(203, 185, 185);
+	display: flex;
+	padding: 0 0 1rem 0;
+	margin: 1rem 0 0 0;
+	border-bottom: 1px solid var(--light-grayish-blue);
 }
 
-
-
 .arrow {
-  border: none;
-  background: #fff;
-  margin-left: auto;
+	border: none;
+	background: #fff;
+	margin-left: auto;
 }
 
 .answer {
-  display: none;
+	display: none;
 }
 
 .attribution {
